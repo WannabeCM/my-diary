@@ -18,3 +18,11 @@
   color: #fff;
   text-decoration: none;
 }
+
+.nav button {
+  margin-left: 14px;
+  color: #fff;
+  border: none;
+  background-color: royalblue;
+  cursor: pointer;
+}
